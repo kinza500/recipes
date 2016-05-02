@@ -1,5 +1,5 @@
 Xamarin Recipes
-===============
+===============--
 
 Recipes for completing simple tasks with Xamarin products.
 
